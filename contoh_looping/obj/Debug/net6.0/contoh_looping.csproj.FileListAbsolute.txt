@@ -1,0 +1,14 @@
+C:\Users\do2_c\Documents\DPK A\contoh_looping\bin\Debug\net6.0\contoh_looping.exe
+C:\Users\do2_c\Documents\DPK A\contoh_looping\bin\Debug\net6.0\contoh_looping.deps.json
+C:\Users\do2_c\Documents\DPK A\contoh_looping\bin\Debug\net6.0\contoh_looping.runtimeconfig.json
+C:\Users\do2_c\Documents\DPK A\contoh_looping\bin\Debug\net6.0\contoh_looping.dll
+C:\Users\do2_c\Documents\DPK A\contoh_looping\bin\Debug\net6.0\contoh_looping.pdb
+C:\Users\do2_c\Documents\DPK A\contoh_looping\obj\Debug\net6.0\contoh_looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\do2_c\Documents\DPK A\contoh_looping\obj\Debug\net6.0\contoh_looping.AssemblyInfoInputs.cache
+C:\Users\do2_c\Documents\DPK A\contoh_looping\obj\Debug\net6.0\contoh_looping.AssemblyInfo.cs
+C:\Users\do2_c\Documents\DPK A\contoh_looping\obj\Debug\net6.0\contoh_looping.csproj.CoreCompileInputs.cache
+C:\Users\do2_c\Documents\DPK A\contoh_looping\obj\Debug\net6.0\contoh_looping.dll
+C:\Users\do2_c\Documents\DPK A\contoh_looping\obj\Debug\net6.0\refint\contoh_looping.dll
+C:\Users\do2_c\Documents\DPK A\contoh_looping\obj\Debug\net6.0\contoh_looping.pdb
+C:\Users\do2_c\Documents\DPK A\contoh_looping\obj\Debug\net6.0\contoh_looping.genruntimeconfig.cache
+C:\Users\do2_c\Documents\DPK A\contoh_looping\obj\Debug\net6.0\ref\contoh_looping.dll

@@ -1,0 +1,14 @@
+C:\Users\do2_c\Documents\DPK A\balok\bin\Debug\net6.0\balok.exe
+C:\Users\do2_c\Documents\DPK A\balok\bin\Debug\net6.0\balok.deps.json
+C:\Users\do2_c\Documents\DPK A\balok\bin\Debug\net6.0\balok.runtimeconfig.json
+C:\Users\do2_c\Documents\DPK A\balok\bin\Debug\net6.0\balok.dll
+C:\Users\do2_c\Documents\DPK A\balok\bin\Debug\net6.0\balok.pdb
+C:\Users\do2_c\Documents\DPK A\balok\obj\Debug\net6.0\balok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\do2_c\Documents\DPK A\balok\obj\Debug\net6.0\balok.AssemblyInfoInputs.cache
+C:\Users\do2_c\Documents\DPK A\balok\obj\Debug\net6.0\balok.AssemblyInfo.cs
+C:\Users\do2_c\Documents\DPK A\balok\obj\Debug\net6.0\balok.csproj.CoreCompileInputs.cache
+C:\Users\do2_c\Documents\DPK A\balok\obj\Debug\net6.0\balok.dll
+C:\Users\do2_c\Documents\DPK A\balok\obj\Debug\net6.0\refint\balok.dll
+C:\Users\do2_c\Documents\DPK A\balok\obj\Debug\net6.0\balok.pdb
+C:\Users\do2_c\Documents\DPK A\balok\obj\Debug\net6.0\balok.genruntimeconfig.cache
+C:\Users\do2_c\Documents\DPK A\balok\obj\Debug\net6.0\ref\balok.dll

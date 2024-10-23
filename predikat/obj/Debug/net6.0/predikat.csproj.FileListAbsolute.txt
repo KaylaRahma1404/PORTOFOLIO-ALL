@@ -1,0 +1,14 @@
+C:\Users\do2_c\Documents\DPK A\predikat\bin\Debug\net6.0\predikat.exe
+C:\Users\do2_c\Documents\DPK A\predikat\bin\Debug\net6.0\predikat.deps.json
+C:\Users\do2_c\Documents\DPK A\predikat\bin\Debug\net6.0\predikat.runtimeconfig.json
+C:\Users\do2_c\Documents\DPK A\predikat\bin\Debug\net6.0\predikat.dll
+C:\Users\do2_c\Documents\DPK A\predikat\bin\Debug\net6.0\predikat.pdb
+C:\Users\do2_c\Documents\DPK A\predikat\obj\Debug\net6.0\predikat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\do2_c\Documents\DPK A\predikat\obj\Debug\net6.0\predikat.AssemblyInfoInputs.cache
+C:\Users\do2_c\Documents\DPK A\predikat\obj\Debug\net6.0\predikat.AssemblyInfo.cs
+C:\Users\do2_c\Documents\DPK A\predikat\obj\Debug\net6.0\predikat.csproj.CoreCompileInputs.cache
+C:\Users\do2_c\Documents\DPK A\predikat\obj\Debug\net6.0\predikat.dll
+C:\Users\do2_c\Documents\DPK A\predikat\obj\Debug\net6.0\refint\predikat.dll
+C:\Users\do2_c\Documents\DPK A\predikat\obj\Debug\net6.0\predikat.pdb
+C:\Users\do2_c\Documents\DPK A\predikat\obj\Debug\net6.0\predikat.genruntimeconfig.cache
+C:\Users\do2_c\Documents\DPK A\predikat\obj\Debug\net6.0\ref\predikat.dll

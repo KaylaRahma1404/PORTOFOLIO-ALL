@@ -1,0 +1,14 @@
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\bin\Debug\net6.0\operasi_genap_ganjil.exe
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\bin\Debug\net6.0\operasi_genap_ganjil.deps.json
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\bin\Debug\net6.0\operasi_genap_ganjil.runtimeconfig.json
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\bin\Debug\net6.0\operasi_genap_ganjil.dll
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\bin\Debug\net6.0\operasi_genap_ganjil.pdb
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\obj\Debug\net6.0\operasi_genap_ganjil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\obj\Debug\net6.0\operasi_genap_ganjil.AssemblyInfoInputs.cache
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\obj\Debug\net6.0\operasi_genap_ganjil.AssemblyInfo.cs
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\obj\Debug\net6.0\operasi_genap_ganjil.csproj.CoreCompileInputs.cache
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\obj\Debug\net6.0\operasi_genap_ganjil.dll
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\obj\Debug\net6.0\refint\operasi_genap_ganjil.dll
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\obj\Debug\net6.0\operasi_genap_ganjil.pdb
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\obj\Debug\net6.0\operasi_genap_ganjil.genruntimeconfig.cache
+C:\Users\do2_c\Documents\DPK A\operasi_genap_ganjil\obj\Debug\net6.0\ref\operasi_genap_ganjil.dll

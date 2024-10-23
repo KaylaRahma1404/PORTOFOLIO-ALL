@@ -1,0 +1,14 @@
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\bin\Debug\net6.0\keyra_PAS.exe
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\bin\Debug\net6.0\keyra_PAS.deps.json
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\bin\Debug\net6.0\keyra_PAS.runtimeconfig.json
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\bin\Debug\net6.0\keyra_PAS.dll
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\bin\Debug\net6.0\keyra_PAS.pdb
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\obj\Debug\net6.0\keyra_PAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\obj\Debug\net6.0\keyra_PAS.AssemblyInfoInputs.cache
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\obj\Debug\net6.0\keyra_PAS.AssemblyInfo.cs
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\obj\Debug\net6.0\keyra_PAS.csproj.CoreCompileInputs.cache
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\obj\Debug\net6.0\keyra_PAS.dll
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\obj\Debug\net6.0\refint\keyra_PAS.dll
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\obj\Debug\net6.0\keyra_PAS.pdb
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\obj\Debug\net6.0\keyra_PAS.genruntimeconfig.cache
+C:\Users\do2_c\Documents\DPK A\keyra_PAS\obj\Debug\net6.0\ref\keyra_PAS.dll

@@ -1,0 +1,14 @@
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\bin\Debug\net6.0\cara_membuat_array.exe
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\bin\Debug\net6.0\cara_membuat_array.deps.json
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\bin\Debug\net6.0\cara_membuat_array.runtimeconfig.json
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\bin\Debug\net6.0\cara_membuat_array.dll
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\bin\Debug\net6.0\cara_membuat_array.pdb
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\obj\Debug\net6.0\cara_membuat_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\obj\Debug\net6.0\cara_membuat_array.AssemblyInfoInputs.cache
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\obj\Debug\net6.0\cara_membuat_array.AssemblyInfo.cs
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\obj\Debug\net6.0\cara_membuat_array.csproj.CoreCompileInputs.cache
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\obj\Debug\net6.0\cara_membuat_array.dll
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\obj\Debug\net6.0\refint\cara_membuat_array.dll
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\obj\Debug\net6.0\cara_membuat_array.pdb
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\obj\Debug\net6.0\cara_membuat_array.genruntimeconfig.cache
+C:\Users\do2_c\Documents\DPK A\cara_membuat_array\obj\Debug\net6.0\ref\cara_membuat_array.dll

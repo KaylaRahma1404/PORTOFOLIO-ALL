@@ -1,0 +1,14 @@
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\bin\Debug\net6.0\latihan_while_dowhile_for.exe
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\bin\Debug\net6.0\latihan_while_dowhile_for.deps.json
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\bin\Debug\net6.0\latihan_while_dowhile_for.runtimeconfig.json
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\bin\Debug\net6.0\latihan_while_dowhile_for.dll
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\bin\Debug\net6.0\latihan_while_dowhile_for.pdb
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\obj\Debug\net6.0\latihan_while_dowhile_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\obj\Debug\net6.0\latihan_while_dowhile_for.AssemblyInfoInputs.cache
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\obj\Debug\net6.0\latihan_while_dowhile_for.AssemblyInfo.cs
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\obj\Debug\net6.0\latihan_while_dowhile_for.csproj.CoreCompileInputs.cache
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\obj\Debug\net6.0\latihan_while_dowhile_for.dll
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\obj\Debug\net6.0\refint\latihan_while_dowhile_for.dll
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\obj\Debug\net6.0\latihan_while_dowhile_for.pdb
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\obj\Debug\net6.0\latihan_while_dowhile_for.genruntimeconfig.cache
+C:\Users\do2_c\Documents\DPK A\latihan_while_dowhile_for\obj\Debug\net6.0\ref\latihan_while_dowhile_for.dll

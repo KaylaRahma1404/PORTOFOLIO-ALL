@@ -1,0 +1,14 @@
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\bin\Debug\net6.0\keymochice_PAS.exe
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\bin\Debug\net6.0\keymochice_PAS.deps.json
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\bin\Debug\net6.0\keymochice_PAS.runtimeconfig.json
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\bin\Debug\net6.0\keymochice_PAS.dll
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\bin\Debug\net6.0\keymochice_PAS.pdb
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\obj\Debug\net6.0\keymochice_PAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\obj\Debug\net6.0\keymochice_PAS.AssemblyInfoInputs.cache
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\obj\Debug\net6.0\keymochice_PAS.AssemblyInfo.cs
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\obj\Debug\net6.0\keymochice_PAS.csproj.CoreCompileInputs.cache
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\obj\Debug\net6.0\keymochice_PAS.dll
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\obj\Debug\net6.0\refint\keymochice_PAS.dll
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\obj\Debug\net6.0\keymochice_PAS.pdb
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\obj\Debug\net6.0\keymochice_PAS.genruntimeconfig.cache
+C:\Users\do2_c\Documents\DPK A\keymochice_PAS\obj\Debug\net6.0\ref\keymochice_PAS.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "keymochice_PAS/1.0.0": {
+        "runtime": {
+          "keymochice_PAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "keymochice_PAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

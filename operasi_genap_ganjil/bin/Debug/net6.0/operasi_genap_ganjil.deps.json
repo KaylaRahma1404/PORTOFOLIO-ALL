@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "operasi_genap_ganjil/1.0.0": {
+        "runtime": {
+          "operasi_genap_ganjil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operasi_genap_ganjil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
